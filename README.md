@@ -1,6 +1,6 @@
 # FestaVip
 
-# Projeto - Segurança Virtual
+## Projeto - Segurança Virtual
 
 ### Obter nome da pessoa que está tentando entrar na festa
 ### Perguntar quem convidou para a festa
